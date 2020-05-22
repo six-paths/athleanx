@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/athleanx/static/css/main.45800387.chunk.css",
-    "main.js": "/athleanx/static/js/main.8018df8b.chunk.js",
-    "main.js.map": "/athleanx/static/js/main.8018df8b.chunk.js.map",
-    "runtime-main.js": "/athleanx/static/js/runtime-main.cbce87f2.js",
-    "runtime-main.js.map": "/athleanx/static/js/runtime-main.cbce87f2.js.map",
-    "static/js/2.bff6a107.chunk.js": "/athleanx/static/js/2.bff6a107.chunk.js",
-    "static/js/2.bff6a107.chunk.js.map": "/athleanx/static/js/2.bff6a107.chunk.js.map",
+    "main.css": "/athleanx/static/css/main.398c91af.chunk.css",
+    "main.js": "/athleanx/static/js/main.06957696.chunk.js",
+    "main.js.map": "/athleanx/static/js/main.06957696.chunk.js.map",
+    "runtime-main.js": "/athleanx/static/js/runtime-main.25750324.js",
+    "runtime-main.js.map": "/athleanx/static/js/runtime-main.25750324.js.map",
+    "static/css/2.6b440270.chunk.css": "/athleanx/static/css/2.6b440270.chunk.css",
+    "static/js/2.0ae9f3f4.chunk.js": "/athleanx/static/js/2.0ae9f3f4.chunk.js",
+    "static/js/2.0ae9f3f4.chunk.js.map": "/athleanx/static/js/2.0ae9f3f4.chunk.js.map",
     "index.html": "/athleanx/index.html",
-    "precache-manifest.ddccc703490538c4ad2a621dec16b6bd.js": "/athleanx/precache-manifest.ddccc703490538c4ad2a621dec16b6bd.js",
+    "precache-manifest.b4de085f33aa446f1d4ffb62e56a4754.js": "/athleanx/precache-manifest.b4de085f33aa446f1d4ffb62e56a4754.js",
     "service-worker.js": "/athleanx/service-worker.js",
-    "static/css/main.45800387.chunk.css.map": "/athleanx/static/css/main.45800387.chunk.css.map",
-    "static/js/2.bff6a107.chunk.js.LICENSE.txt": "/athleanx/static/js/2.bff6a107.chunk.js.LICENSE.txt"
+    "static/css/2.6b440270.chunk.css.map": "/athleanx/static/css/2.6b440270.chunk.css.map",
+    "static/css/main.398c91af.chunk.css.map": "/athleanx/static/css/main.398c91af.chunk.css.map",
+    "static/js/2.0ae9f3f4.chunk.js.LICENSE.txt": "/athleanx/static/js/2.0ae9f3f4.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/athleanx/static/media/icons-20.cef8cdbb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbce87f2.js",
-    "static/js/2.bff6a107.chunk.js",
-    "static/css/main.45800387.chunk.css",
-    "static/js/main.8018df8b.chunk.js"
+    "static/js/runtime-main.25750324.js",
+    "static/css/2.6b440270.chunk.css",
+    "static/js/2.0ae9f3f4.chunk.js",
+    "static/css/main.398c91af.chunk.css",
+    "static/js/main.06957696.chunk.js"
   ]
 }
