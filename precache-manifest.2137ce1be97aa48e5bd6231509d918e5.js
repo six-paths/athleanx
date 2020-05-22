@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70e4022331102494f6883716bee27c91",
+    "revision": "cbc9c024da78e45dbbbbbf75cd3c58ea",
     "url": "/athleanx/index.html"
   },
   {
-    "revision": "dfdbeb6977a4a63ffc2b",
+    "revision": "473fd2203ffb388f7046",
     "url": "/athleanx/static/css/2.6b440270.chunk.css"
   },
   {
-    "revision": "71ebd2cc7a30e6c26811",
+    "revision": "53df12736756639bbc14",
     "url": "/athleanx/static/css/main.398c91af.chunk.css"
   },
   {
-    "revision": "dfdbeb6977a4a63ffc2b",
-    "url": "/athleanx/static/js/2.0ae9f3f4.chunk.js"
+    "revision": "473fd2203ffb388f7046",
+    "url": "/athleanx/static/js/2.5e862c33.chunk.js"
   },
   {
     "revision": "b578178f33e8b4baed76c7b8f7ce2e07",
-    "url": "/athleanx/static/js/2.0ae9f3f4.chunk.js.LICENSE.txt"
+    "url": "/athleanx/static/js/2.5e862c33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71ebd2cc7a30e6c26811",
-    "url": "/athleanx/static/js/main.06957696.chunk.js"
+    "revision": "53df12736756639bbc14",
+    "url": "/athleanx/static/js/main.80278b6d.chunk.js"
   },
   {
     "revision": "daa56382452e9d09ef73",
